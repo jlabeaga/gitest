@@ -1,5 +1,5 @@
-1 line master
-2 line master
+1 line branch2
+2 line branch2
 3 line master
 4 line
 5 line
