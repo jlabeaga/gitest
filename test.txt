@@ -1,5 +1,5 @@
-1 line 
-2 line changed in master after branch 3 before branch4
+1 line changed in branch4
+2 line changed in branch4
 3 line
 4 line modified by user 1
 5 line
@@ -7,5 +7,6 @@
 7 line modified by user 2
 8 line
 9 line
-10 line
-11 line new in master after branch 3 before branch4 
+10 line changed in branch4
+11 line changed in branch4
+12 line new in branch4
