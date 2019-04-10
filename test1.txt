@@ -1,5 +1,5 @@
-1 line branch2
-2 line branch2
+1 line branch4
+2 line branch4
 3 line master
 4 line
 5 line
@@ -8,4 +8,5 @@
 8 line
 9 line
 10 line
- 
+11 line changed in master after branch 3 before branch4
+12 line new in master after branch 3 before branch4 
