@@ -6,6 +6,12 @@
 6 line
 7 line
 8 line master
+<<<<<<< HEAD
 9 line changed in master after branch 3 before branch4
 10 line changed in master after branch 3 before branch4
 11 line new in master after branch 3 before branch4
+=======
+9 line branch3
+10 line branch3
+11 line branch3
+>>>>>>> origin/branch3
